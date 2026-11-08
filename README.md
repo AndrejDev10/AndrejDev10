@@ -2,7 +2,6 @@
 
 **Full-stack developer — React, TypeScript & .NET.** I design, build and ship complete web products: the interface, the API, the database, the deployment, and the AI features on top.
 
-🟢 **Available for freelance work** · Remote · CET (UTC+1)
 
 [![Email](https://img.shields.io/badge/Email-andrej.kukuruzovic%40gmail.com-15803d?style=flat-square&logo=gmail&logoColor=white)](mailto:andrej.kukuruzovic@gmail.com)
 [![X](https://img.shields.io/badge/X-@HumnamDev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/HumnamDev)
