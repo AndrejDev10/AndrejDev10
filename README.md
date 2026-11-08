@@ -48,15 +48,3 @@ A live product I designed, built and run end to end: scrim tracking and stats, a
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-## How I work
-
-- **Shipped, not just written.** You get something running in production, with tests, CI and a deploy you can repeat — not a zip file.
-- **Clear communication.** Short written updates, a demo you can click at every milestone, and honest estimates.
-- **Fast with AI, careful with code.** I use AI coding tools as a pair programmer to move quickly; I review, test and own every change that ships.
-- **Built to hand over.** Readable code, a README that explains how to run it, and documentation for the next developer.
-
-## Let's work together
-
-Have a product to build, a frontend to modernise, or an AI feature to add?
-**Email me at [andrej.kukuruzovic@gmail.com](mailto:andrej.kukuruzovic@gmail.com)** or message me on **[X @HumnamDev](https://x.com/HumnamDev)** with a few lines about the project and your timeline.
