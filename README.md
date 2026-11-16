@@ -21,7 +21,6 @@ Right now I'm shipping a live SaaS, a children's mobile game, and starting more 
 |---|---|---|---|
 | [**Blindspot.gg**](https://blindspot-gg.com) | SaaS coaching platform for League of Legends teams: scrim stats, 2D replay, scouting, draft rooms, AI chat | React 19 · TypeScript · ASP.NET Core · PostgreSQL · Claude API | 🟢 Live |
 | **Magic Flying Garden** | Collectible game for children: open surprise bags, collect 150 animals, care for them on a painted world map. No ads, no in-app purchases, no tracking | Godot 4 · GDScript · Android & iOS · 3 languages (DE / EN / HR) | 🟡 In development |
-| **PulseDesk** | Dashboard tool with pluggable data connectors (SQL, REST, OData, CSV, Microsoft Graph / Exchange) | ASP.NET Core (.NET 10) · Razor Pages | 🔵 Early stage |
 
 ## ⭐ Featured: Blindspot.gg
 
